@@ -22,11 +22,11 @@ Whatever you may find that could make Fermat better is welcome and it will be co
 
 In fermat, every component (plug-in, add-on, library, etc) has an Author and a maintainer.
 
-1. Open www.fermat.org, go to the Architecture view and zoom in until you find the component you will suggest to change.
+1. Open [fermat.org] (http://dev.fermat.org) go to the Architecture view and zoom in until you find the component you will suggest to change.
 2. Click on that component to select it.
 3. You will find there a picture of the author. If he/she is not the current maintainer, you will also find the maintainers picture. 
 4. Click again their the picture to get more detailed info including their github username.
-5. Go to https://github.com/*username*/fermat.
+5. Go to https://github.com/ and then introduce the developer's github username in the path: (github.com/*username*/fermat)
 
 If your change doesn't need to be compiled and tested or you prefer not to do that yourself, then you can go through the _Casual or Minor Change_ section. Otherwise, if you prefer to get deeper and finish the job yourself, then go throught the _Major Change_ section.
 
