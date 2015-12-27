@@ -22,9 +22,9 @@ In Fermat teams are organized in a hierarchical way. This helps in reviewing cha
 * Disruptors
 * Fermat ORG Client
 * Fermat ORG Server
-* Nelson's Team
+* DBZ 
 * Mordor
-* Franlkin's Team
+* Kabuto 
 
 ## Current Hierarchy
 
@@ -107,7 +107,7 @@ More than a Team we are a group of highly motivated friends pursuing the goal of
 
 
 <br>
-### Disruptor Team:
+### Disruptors Team:
 -----------------------------------
 
 We want to assemble a team that wants to combines its technical capacity with its creative talent, where you feel passion for development and for the work done and not just do it for pay, who is willing to work together and share nights without sleep.
